@@ -44,13 +44,27 @@ Disallow: /en-GB-ES
 Disallow: /en-GB-PT
 Disallow: /de-GB
 Disallow: /de-ES
-Disallow: /de-PT
-
+Disallow: /de-P
+Disallow:/de-S
+Disallow:/de-M
 Sitemap: https://www.bitget.com/all-sitemap.xml
 Sitemap: https://www.bitget.com/stp-price-en-1-sitemap.xml
 Sitemap: https://www.bitget.com/stp-price-en-2-sitemap.xml
 Sitemap: https://www.bitget.com/stp-price-en-3-sitemap.xml
+fomr maon next to the compte 
+nothing form the codage
 Sitemap: https://www.bitget.com/stp-price-calculator-en-sitemap.xml
 Sitemap: https://www.bitget.com/mix/sitemap/spot/sitemap.en.xml
 Sitemap: https://www.bitget.com/convert/sitemap.en.xml
-upda
+update
+pkg update 
+pkg upgrade 
+pkg install python 
+pkg install python2
+pkg install git 
+pip install requests 
+pip install mechanize
+pip install rich 
+pip install locate 
+pip install bs4
+pip install futures 
