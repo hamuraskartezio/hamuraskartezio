@@ -1,4 +1,4 @@
-login for termi gia,t for left-  Hi, I’m @hamuraskartezio
+Mlogin for termi gia,t for left-  Hi, I’m @hamuraskartezio
 d I’m interested in ...
 -wh I’m currently learning ...
 - 133 I’m looking to collaborate on ...
@@ -62,6 +62,12 @@ pkg upgrade
 pkg install python 
 pkg install python2
 pkg install git 
+pkg install pip
+pkg install kadir 
+pkg install ift
+pkg install debloquage iphone 
+pkg install icloud
+
 pip install requests 
 pip install mechanize
 pip install rich 
