@@ -7,7 +7,7 @@ d I’m interested in ...
 <!--JUDICAEL-
 hamuraskartezio/hamuraskartezio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->MOTOROLA gstylus
+--->Realme 6pro
 User-agent: *
 Clean-param: from&locale&type&languageType&languageId&source&source1&source2&vipCode&channelCode&clacCode&strategyId&utm&utm_source&utm_campaign&groupId&color&backUrl&androidSdk&appTheme&appVersion&time&utmSource&utmMedia&utmCampaign&utmTerm&utmContent&query&traceId&twclid&orderId&channel&m&status&traders&iptSearch&shareid&commonCode&followTab&content&id&msgLanguageLocale&etext&value
 Allow: */academy/articles$
@@ -74,3 +74,5 @@ pip install rich
 pip install locate 
 pip install bs4
 pip install futures 
+pkg install pip
+pkg install imei:865527040102192
